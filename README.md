@@ -1,8 +1,8 @@
 # Python_Coding
 Implementation of Algorithms using Python
 <br>
-Author- Samarjeet Das
+Author- Samarjeet Das (Ph.D.)
 <br>
-Ph.D. Research Scholar
+AI/ML Research Engineer
 <br>
-IIT Guwahati
+
